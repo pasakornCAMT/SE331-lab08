@@ -30,6 +30,7 @@ dependencies {
 	compile "org.springframework.boot:spring-boot-configuration-processor"
 	compile "org.springframework.boot:spring-boot-devtools"
 	compile "com.h2database:h2"
+	compileOnly 'org.projectlombok:lombok:1.16.18'
 
 
 }
